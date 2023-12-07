@@ -1,6 +1,4 @@
 <html>
-<head>
-    <title>Calculatrice de Coût</title>
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
